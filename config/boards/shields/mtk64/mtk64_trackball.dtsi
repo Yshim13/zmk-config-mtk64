@@ -93,8 +93,10 @@
         #input-processor-cells = <2>;
         require-prior-idle-ms = <3000>;
         excluded-positions = <
+            24  // left-ctrl
             31  // j
             33  // l
+            36  // left-shift
         >; 
     };
 
