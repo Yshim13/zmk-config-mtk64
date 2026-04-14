@@ -91,13 +91,10 @@
     zip_temp_layer: zip_temp_layer {
         compatible = "zmk,input-processor-temp-layer";
         #input-processor-cells = <2>;
-        require-prior-idle-ms = <500>;
+        require-prior-idle-ms = <3000>;
         excluded-positions = <
             31  // j
-            32  // k
             33  // l
-            45  // M
-            46  // <
         >; 
     };
 
