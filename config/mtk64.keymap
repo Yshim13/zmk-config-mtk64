@@ -46,7 +46,7 @@
 
         default_layer {
             bindings = <
-&kp ESC  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp MINUS  &kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp LEFT_BRACE  &kp LCTRL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SLASH  &kp ENTER  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp RIGHT_BRACE  &kp SEMI  &kp N  &kp M  &kp COMMA  &kp DOT  &kp INTERNATIONAL_1  &kp RSHFT  &kp LEFT_GUI  &kp LEFT_ALT  &kp SPACE  &kp LEFT_GUI  &kp BSPC  &mo 4  &kp EQUAL  &kp APOS  &tog 2  &kp ENTER  &kp LEFT_ALT  &lt 1 ENTER  &kp ENTER  &tog 2  &mo 5  &kp LG(TAB)  &mo 1  &mo 2  &mo 3  &mo 1  &mo 2  &mo 3  &mo 1  &mo 2  &mo 3
+&kp ESC  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp MINUS  &kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp LEFT_BRACE  &kp LCTRL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SLASH  &kp ENTER  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp RIGHT_BRACE  &kp SEMI  &kp N  &kp M  &kp COMMA  &kp DOT  &kp INTERNATIONAL_1  &kp RSHFT  &kp LEFT_GUI  &kp LEFT_ALT  &kp SPACE  &kp LEFT_GUI  &kp BSPC  &mo 4  &kp EQUAL  &kp APOS  &tog 2  &kp ENTER  &kp LEFT_ALT  &lt 5 ENTER  &kp ENTER  &tog 2  &mo 5  &kp LG(TAB)  &mo 1  &mo 2  &mo 3  &mo 1  &mo 2  &mo 3  &mo 1  &mo 2  &mo 3
             >;
 
             sensor-bindings = <
@@ -85,7 +85,7 @@
 
         layer_4 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &trans  &kp LS(LG(LEFT_ARROW))  &kp UP  &kp LS(LG(RIGHT_ARROW))  &trans  &trans  &trans  &kp LG(LEFT_ARROW)  &kp LG(UP_ARROW)  &kp LG(RIGHT_ARROW)  &trans  &kp F12  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans  &kp PAGE_UP  &kp LS(LG(LEFT_ARROW))  &kp DOWN_ARROW  &kp LG(LS(RIGHT_ARROW))  &trans  &trans  &trans  &kp LC(LG(LEFT_ARROW))  &trans  &kp LC(LG(RIGHT_ARROW))  &trans  &trans  &kp NON_US_HASH  &kp INTERNATIONAL_3  &kp PAGE_DOWN  &mkp MB4  &mkp MB5  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
